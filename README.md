@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ai_gpu_web
 =======
 # AI GPU Cloud - Enterprise GPU Rental Platform
