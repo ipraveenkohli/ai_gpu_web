@@ -30,24 +30,24 @@ const HomePage = () => {
     },
     {
       icon: Shield,
-      title: "Enterprise Security",
+      title: "Enterprise Security 200+ GPUS Security ",
       description: "Bank-grade encryption and isolated environments for your workloads"
     },
     {
       icon: Clock,
-      title: "24/7 Availability",
+      title: "24/7 Availability also ",
       description: "99.9% uptime SLA with round-the-clock technical support"
     },
     {
       icon: TrendingUp,
-      title: "Auto Scaling",
+      title: "Auto Scaling we care ",
       description: "Automatically scale resources based on your computational needs"
     }
   ];
 
   const gpuCards = [
     {
-      name: "NVIDIA H100",
+      name: "NVIDIA H10000000",
       vram: "80GB HBM3",
       performance: "989 TFLOPs",
       price: "$4.50/hr",
@@ -55,7 +55,7 @@ const HomePage = () => {
       gradient: "from-cyan-500 to-blue-600"
     },
     {
-      name: "NVIDIA A100",
+      name: "NVIDIA A1000000000",
       vram: "80GB HBM2e",
       performance: "624 TFLOPs",
       price: "$3.00/hr",
