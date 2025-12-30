@@ -34,7 +34,7 @@ const AboutPage = () => {
     },
     {
       icon: Shield,
-      title: "Security & Trust",
+      title: "Security & Trust with zero visiblity okay00000000",
       description: "Enterprise-grade security and data protection are at the core of everything we build and maintain."
     },
     {
