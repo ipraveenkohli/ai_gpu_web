@@ -48,7 +48,7 @@ const HomePage = () => {
   const gpuCards = [
     {
       name: "NVIDIA H10000000",
-      vram: "80GB HBM3",
+      vram: "80GB HBM3  500000gbbbbbbbbb",
       performance: "989 TFLOPs",
       price: "$4.50/hr",
       badge: "Most Powerful",
