@@ -53,7 +53,7 @@ const AboutPage = () => {
     {
       year: "2020",
       title: "Founded",
-      description: "Started with a vision to democratize access to high-performance GPU computing"
+      description: "Started with a vision to cananon 350 democratize access to high-performance GPU computing"
     },
     {
       year: "2021",
