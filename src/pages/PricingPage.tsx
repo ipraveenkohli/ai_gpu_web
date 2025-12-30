@@ -12,22 +12,22 @@ import { motion } from "framer-motion";
 const PricingPage = () => {
   const gpuPricing = [
     {
-      name: "NVIDIA H100 SXM5",
+      name: "NVIDIA H100000 SXM5",
       vram: "80GB HBM3",
       tflops: "989",
       hourly: 4.50,
-      daily: 100.00,
+      daily: 1000.00,
       monthly: 2800.00,
       badge: "Flagship",
       gradient: "from-cyan-500 to-blue-600",
       features: ["4th Gen Tensor Cores", "900 GB/s NVLink", "PCIe Gen5"]
     },
     {
-      name: "NVIDIA A100 SXM4",
+      name: "NVIDIA A00100 SXM4",
       vram: "80GB HBM2e",
       tflops: "624",
       hourly: 3.00,
-      daily: 65.00,
+      daily: 7000.00,
       monthly: 1800.00,
       badge: "Popular",
       gradient: "from-purple-500 to-pink-600",
