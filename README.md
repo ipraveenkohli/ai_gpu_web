@@ -39,7 +39,7 @@ On every push to the `main` branch:
 4. CI/CD pipeline setup
 
 ## 📸 Screenshots
-(Add screenshots here)
+
 
 ## 🧠 What I Learned
 - Setting up CI/CD pipelines
